@@ -1,5 +1,6 @@
 html2pdf
 ========
+It is a html to pdf converter java itext api./html to pdf java api open source (free).
 
 Demo Project to convert JSP/HTML into PDF by passing URL as input, using iText library
 
