@@ -1,8 +1,6 @@
 html2pdf
 ========
-It is a html to pdf converter java itext api./html to pdf java api.
-
-Demo Project to convert JSP/HTML into PDF by passing URL as input, using iText library
+Demo Project to convert JSP/HTML into PDF by passing URL as input, using iText library.
 
 Here is a demo project to share how to use iText pdf java library to convert a jsp or html into pdf by passing page URL.
 
